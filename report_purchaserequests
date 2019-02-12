@@ -89,9 +89,7 @@
                                     <t>
                                         <td class="text-center" 
                                             groups="product.group_uom">
-                                            <span t-field="line_ids.
-                                                           product_uom_id.
-                                                           "/>
+                                            <span t-field="line_ids.product_uom_id"/>
                                             
                                         </td>
                                     </t>
